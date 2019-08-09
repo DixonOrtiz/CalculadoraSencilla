@@ -5,7 +5,7 @@ Para instalar las dependencias:
 npm install
 ```
 
-Para crear sumar:
+Para sumar:
 ```
 node app sumar -a 20 -b 100
 ```
